@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@xml/border"
+    android:layout_margin="3dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/recyclerViewTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="#052DFB"
+        android:text="Deneme"
+        android:textColor="#25CE1F"
+        android:textColorHighlight="#B63737"
+        android:textColorLink="#DB1515"
+        android:textSize="20sp" />
+
+
+
+
+</LinearLayout>
